@@ -1,4 +1,4 @@
-query {
+query a_name {
   InfrahubStatus {
     summary {
       schema_hash_synced
