@@ -90,7 +90,7 @@ queries:
     file_path: "generators/circuit_endpoints.gql"
   - name: backbone_service
     file_path: "generators/backbone_service.gql"
-  - name: some_other_test
-    file_path: "bla.gql"
   - name: other_test
     file_path: "blah.gql"
+  - name: some_other_test
+    file_path: "bla.gql"
