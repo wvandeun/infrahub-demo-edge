@@ -92,3 +92,5 @@ queries:
     file_path: "generators/backbone_service.gql"
   - name: some_other_test
     file_path: "bla.gql"
+  - name: jep
+    file_path: "test.gql"
