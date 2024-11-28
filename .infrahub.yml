@@ -68,8 +68,8 @@ generator_definitions:
     parameters:
       name: "name__value"
 
-schemas:
-  - schemas/
+# schemas:
+#   - schemas/
 
 queries:
   - name: topology_info
